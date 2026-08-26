@@ -11,7 +11,7 @@ Checks the latency of the bot.
 Shows all of the available commands.
 
 ### /terrariabot-summon
-Displays a PNG image of a random boss from Terraria.
+Displays a PNG image of a random boss from Terraria or the mod of Terraria (Calamity).
 
 ### /terrariabot-fact
 Gets a random fact about Terraria.
