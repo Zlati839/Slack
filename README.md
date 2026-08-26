@@ -1,17 +1,31 @@
-#Terrariabot
+# Terrariabot
 
-The bot is themed after the game Terraria and it has 4 commands 
+Terrariabot is a bot themed after the game Terraria. It has four commands that provide useful and fun features related to the game.
 
 ## Commands
 
-ping - checks the latency of the bot
+### terrariabot-ping
+Checks the latency of the bot.
 
-help - shows all of the commands 
+### terrariabot-help
+Shows all of the available commands.
 
-summon - displays a png of a random boss from the game the bot is themed after
+### terrariabot-summon
+Displays a PNG image of a random boss from Terraria.
 
-fact - gets a random fact for the game the bot is themed after
+### terrariabot-fact
+Gets a random fact about Terraria.
 
-## How to use
+## How to Use
 
-before every command there should be terrairabot-[command]
+To use a command, type one of the commands listed above.
+
+Examples:
+
+`terrariabot-ping`
+
+`terrariabot-help`
+
+`terrariabot-summon`
+
+`terrariabot-fact`
