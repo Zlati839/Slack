@@ -4,10 +4,10 @@ Terrariabot is a bot themed after the game Terraria. It has four commands that p
 
 ## Commands
 
-### /terrariabot-ping
+### /terrairabot-ping 
 Checks the latency of the bot.
 
-### /terrariabot-help
+### /terrairabot-help
 Shows all of the available commands.
 
 ### /terrariabot-summon
