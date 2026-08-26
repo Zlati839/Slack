@@ -20,12 +20,3 @@ Gets a random fact about Terraria.
 
 To use a command, type one of the commands listed above.
 
-Examples:
-
-`terrariabot-ping`
-
-`terrariabot-help`
-
-`terrariabot-summon`
-
-`terrariabot-fact`
